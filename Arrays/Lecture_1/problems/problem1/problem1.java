@@ -2,7 +2,7 @@
 // Input : arr[] = {1,5,3}
 // Output : 9
 
-package Lecture_1.problems.problem1;
+
 
 class Innerproblem1 {
 

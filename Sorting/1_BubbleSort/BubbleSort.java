@@ -11,6 +11,7 @@ public class BubbleSort {
 
                 // last i elements are already at correct sorted positions so no need to check
                 // them
+                
 
                 if (a[j] > a[j + 1]) {
                     // swap - a[j],a[j+1]
